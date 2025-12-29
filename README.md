@@ -51,7 +51,7 @@ Smart_Expense_Tracker/
 │   ├── Screenshot...739.png  # Interface images
 │   └── ...                   # Additional screenshots
 ├── expenses.csv              # Database (Auto-generated)
-└── README.md                 # Project Documentation 
+└── README.md                 # Project Documentation
 
 
 Author
