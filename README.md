@@ -44,11 +44,11 @@ A robust command-line interface (CLI) tool designed to help users track personal
 ```text
 Smart_Expense_Tracker/
 ├── App/
-│   └── expense_tracker.py    # Main source code
+│   ├── expense_tracker.py    # Main source code
+│   └── expenses.csv          # Database (Auto-generated)
 ├── Screenshots/
 │   ├── terminal.png          # Interface image
 │   └── chart.png             # Chart image
-├── expenses.csv              # Database (Auto-generated)
 └── README.md                 # Project Documentation
 
 Author
