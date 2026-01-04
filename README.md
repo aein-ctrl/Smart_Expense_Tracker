@@ -1,4 +1,4 @@
-# 💰 Smart Expense Tracker
+#  Smart Expense Tracker
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -9,7 +9,7 @@ A robust command-line interface (CLI) tool designed to help users track personal
 
 ---
 
-## 📸 Project Visuals
+## Project Visuals
 
 > *Find all project screenshots in the `Screenshots/` folder.*
 
@@ -20,17 +20,17 @@ A robust command-line interface (CLI) tool designed to help users track personal
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-* **📝 Add Expenses:** Easily input transaction details (Category, Amount, Description) with automatic date stamping.
-* **📊 Data Visualization:** Generate graphical reports (Bar Charts) to see exactly where your money goes.
-* **💾 Data Persistence:** All data is saved to a CSV file (`expenses.csv`), ensuring records are never lost between sessions.
-* **📈 Smart Analysis:** View categorized summaries of total spending directly in the terminal.
-* **🛡️ Error Handling:** Validates user input to prevent crashes (e.g., ensuring numeric amounts).
+* ** Add Expenses:** Easily input transaction details (Category, Amount, Description) with automatic date stamping.
+* ** Data Visualization:** Generate graphical reports (Bar Charts) to see exactly where your money goes.
+* ** Data Persistence:** All data is saved to a CSV file (`expenses.csv`), ensuring records are never lost between sessions.
+* ** Smart Analysis:** View categorized summaries of total spending directly in the terminal.
+* ** Error Handling:** Validates user input to prevent crashes (e.g., ensuring numeric amounts).
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Language:** Python 3
 * **Data Manipulation:** Pandas
@@ -39,7 +39,7 @@ A robust command-line interface (CLI) tool designed to help users track personal
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Smart_Expense_Tracker/
